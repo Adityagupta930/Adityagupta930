@@ -32,9 +32,11 @@
 </div>
 <table>
   <tr>
-    <td width="70%">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="90%" height="200px" alt="Data Analysis Detective GIF">
-### 🌟 At a Glance
+    <td width="50%">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="100px" alt="Data Analysis Detective GIF">
+### 
+      
+🌟 At a Glance
 ```yaml
 name: Aditya Gupta
 role: AI Engineer & Data Scientist 🤖
