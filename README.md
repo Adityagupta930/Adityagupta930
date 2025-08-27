@@ -83,24 +83,23 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 <table>
   <tr>
-    <td align="center"><br><br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Code&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=180&height=50&lines=ML;MACHINE;LEARNING" alt="MACHINE LEARNING" width="150">
-<br><br>
+    <td align="center"><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=180&height=50&lines=ML;MACHINE;LEARNING" alt="Machine Learning" width="150"><br>
       <b>Machine Learning</b><br>
       <progress value="95" max="100"></progress> 95%
     </td>
-    <td align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=180&height=50&lines=[NEURAL];[DL]" alt="DL Matrix" width="150">
+    <td align="center"><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=180&height=50&lines=DEEP;LEARNING" alt="Deep Learning" width="150"><br>
       <b>Deep Learning</b><br>
       <progress value="92" max="100"></progress> 92%
     </td>
-    <td align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=180&height=50&lines=[GenAI];[NLP]" alt="GenAI Matrix" width="150">
+    <td align="center"><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=180&height=50&lines=NLP;GENAI" alt="NLP & GenAI" width="150"><br>
       <b>NLP & GenAI</b><br>
       <progress value="90" max="100"></progress> 90%
     </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+    <td align="center"><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=180&height=50&lines=PYTHON" alt="NLP & GenAI" width="150"><br>
       <b>Python</b><br>
       <progress value="95" max="100"></progress> 95%
     </td>
