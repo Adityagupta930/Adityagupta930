@@ -158,32 +158,6 @@ flowchart TD
 
 <div align="center">
 
-### 🎪 Fun Facts That Make Me... Me!
-
-| 🌟 **Quirky** | 🎯 **Professional** | 🚀 **Ambitious** |
-|:-------------:|:-------------------:|:-----------------:|
-| I name my variables after Marvel characters | I've built models that predict pizza delivery times | Working on AI that can understand dad jokes |
-| Can spot data anomalies faster than typos | Automated my morning routine (except coffee making) | Goal: Make AI accessible to everyone |
-| My idea of relaxation is cleaning datasets | Love explaining complex ML concepts simply | Dream: Contributing to breakthrough AI research |
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 My Current Mindset
-
-> *"I believe that the best data scientists are not just statisticians or programmers - they are storytellers who happen to speak fluent Python. Every dataset is a book waiting to be read, every algorithm is a tool waiting to be wielded, and every insight is a story waiting to be told."*
-
-**🎯 Mission**: To bridge the gap between complex AI and human understanding, one project at a time.
-
-</div>
-
----
-
-<div align="center">
-
 ## 🛠️ My Tech Arsenal & Skills
 
 ### 🎯 Technical Skills
