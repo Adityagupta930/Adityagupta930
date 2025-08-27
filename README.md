@@ -1,10 +1,10 @@
-# <div align="center">🌌 Welcome to the Data Multiverse 🌌</div>
+# <div align="center">🌾 Visionary - AI-Powered Agricultural Assistant 🌾</div>
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gupta;Data+Scientist+%26+AI+Engineer;Pattern+Hunter+%F0%9F%94%8D;Machine+Learning+Enthusiast;Building+Tomorrow's+AI+Today!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI-Powered+Crop+Disease+Detection;Smart+Soil+Analysis+System;Helping+Farmers+with+Technology;Deep+Learning+for+Agriculture" alt="Typing SVG" />
   
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=adityagupta930&label=Project%20Views&color=brightgreen&style=for-the-badge)
   
 </div>
 
@@ -12,246 +12,196 @@
 
 <div align="center">
 
-## 🚀 *"Turning Data into Magic, One Algorithm at a Time"* ✨
-### *~ Aditya*
+## 🚀 *"Transforming Agriculture with AI - One Crop at a Time"* ✨
 
-```ascii
-     ╭─────────────────────────────────────────╮
-     │  ░█████╗░██████╗░██╗████████╗██╗░░░██╗  │
-     │  ██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗░██╔╝  │
-     │  ███████║██║░░██║██║░░░██║░░░░╚████╔╝░  │
-     │  ██╔══██║██║░░██║██║░░░██║░░░░░╚██╔╝░░  │
-     │  ██║░░██║██████╔╝██║░░░██║░░░░░░██║░░░  │
-     │  ╚═╝░░╚═╝╚═════╝░╚═╝░░░╚═╝░░░░░░╚═╝░░░  │
-     ╰─────────────────────────────────────────╯
+</div>
+
+## 🌟 About Visionary
+
+**Visionary** is a cutting-edge agricultural AI system that helps farmers detect crop diseases and analyze soil types using deep learning and computer vision. Built with modern web technologies, it provides real-time analysis and actionable insights for better farming decisions.
+
+### 🎯 Key Features
+- 🔍 **Disease Detection**: Identifies 17+ crop diseases across 5 major crops
+- 🌱 **Soil Analysis**: Advanced soil type classification using AI
+- 📱 **User-Friendly Interface**: Interactive React-based web application
+- ⚡ **Real-Time Processing**: Fast API responses with TensorFlow models
+- 🎯 **Accurate Predictions**: High-precision AI models trained on extensive datasets
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🤖 Backend & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-009688?style=for-the-badge&logoColor=white)
+
+### 📊 Data & Tools
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+---
+
+## ⚡ Quick Start
+
+### Prerequisites
+- 🐍 Python 3.8+
+- 📦 Node.js & npm
+- 🔧 Git
+
+### 🚀 Installation and Running
+
+**1. Frontend Setup:**
+```bash
+cd Front-End
+npm install
+npm start
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=adityagupta930&label=Visitors&color=blueviolet&style=for-the-badge&logo=github)
-![GitHub followers](https://img.shields.io/github/followers/adityagupta930?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
-
-</div>
-
----
-
-<div align="center">
-
-## 🎭 The Data Storyteller's Journey 🎭
-
-</div>
-
-<table>
-  <tr>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="Brain AI GIF">
-      
-### 🌟 At a Glance
-```yaml
-name: Aditya Gupta
-role: Data Alchemist 🧪
-specialty: Transforming Raw Data → Golden Insights
-based_in: India 🇮🇳
-motto: "Every dataset has a secret to tell!"
-current_obsession: Making AI more human-friendly
+**2. Backend Setup:**
+```bash
+cd Back-End
+pip install -r requirements.txt
 ```
 
-    </td>
-    <td width="60%">
+**3. Start APIs:**
+```bash
+# Soil Analysis API (Port 8000)
+cd Crop
+python -m uvicorn main_soil:app --host 0.0.0.0 --port 8000 --reload
 
-### 👋 Hello World! 
-
-I'm **Aditya** - part detective 🕵️, part artist 🎨, and full-time data enthusiast! 
-
-Think of me as a **digital archaeologist** who digs through mountains of data to uncover hidden treasures. Whether it's predicting customer behavior, optimizing business processes, or building smart AI systems, I love turning chaos into clarity.
-
-**What makes me tick?** 
-- 🧩 Solving complex puzzles that others find impossible
-- 🚀 Building AI that actually makes sense (and works!)
-- 📚 Learning something new every single day
-- ☕ Converting caffeine into code at supernatural speeds
-
-    </td>
-  </tr>
-</table>
+# Crop Disease API (Port 8001)
+cd Crop
+python -m uvicorn main_crop:app --host 0.0.0.0 --port 8001 --reload
+```
 
 ---
 
-<div align="center">
-
-### 🎯 My Superpower Matrix
-
-<table>
-  <tr>
-    <td align="center">🔬<br><b>Data Science</b><br>████████████ 95%</td>
-    <td align="center">🤖<br><b>Machine Learning</b><br>██████████░░ 90%</td>
-    <td align="center">🐍<br><b>Python</b><br>███████████░ 92%</td>
-    <td align="center">📊<br><b>Visualization</b><br>█████████░░░ 88%</td>
-  </tr>
-  <tr>
-    <td align="center">🗄️<br><b>SQL/Databases</b><br>██████████░░ 85%</td>
-    <td align="center">☁️<br><b>Cloud Computing</b><br>████████░░░░ 80%</td>
-    <td align="center">🌐<br><b>Web Tech</b><br>███████░░░░░ 75%</td>
-    <td align="center">☕<br><b>Coffee Brewing</b><br>████████████ 100%</td>
-  </tr>
-</table>
-
-</div>
-
----
+## 📋 System Architecture
 
 <div align="center">
-
-### 🎪 The Three Acts of My Data Story
-
-</div>
-
-<table>
-  <tr>
-    <th width="33%">🎬 Act I: Discovery</th>
-    <th width="33%">🎯 Act II: Innovation</th>
-    <th width="33%">🚀 Act III: Impact</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/clouds/100/000000/search.png" width="60"><br>
-      <b>The Explorer Phase</b><br>
-      🔍 Finding patterns in chaos<br>
-      📈 Discovering hidden insights<br>
-      🧪 Experimenting with new techniques
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/clouds/100/000000/artificial-intelligence.png" width="60"><br>
-      <b>The Creator Phase</b><br>
-      🛠️ Building intelligent systems<br>
-      ⚡ Optimizing algorithms<br>
-      🎨 Crafting beautiful visualizations
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/clouds/100/000000/rocket.png" width="60"><br>
-      <b>The Impactor Phase</b><br>
-      🌍 Solving real-world problems<br>
-      💡 Sharing knowledge with community<br>
-      🤝 Mentoring aspiring data scientists
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-### 🎨 My Creative Process
-
-</div>
 
 ```mermaid
 flowchart TD
-    A[☕ Grab Coffee] --> B[🤔 Ask Curious Questions]
-    B --> C[📊 Explore Data Like a Detective]
-    C --> D[🧪 Experiment with Models]
-    D --> E[🎯 Build Something Amazing]
-    E --> F[📚 Share Knowledge]
-    F --> G[🔄 Repeat with More Coffee]
-    G --> A
+    A[👨‍🌾 Farmer] --> B[🌐 React Frontend<br/>Port 3000]
+    B --> C{📸 Image Upload}
+    C -->|Crop Image| D[🌾 Crop Disease API<br/>Port 8001]
+    C -->|Soil Image| E[🌱 Soil Analysis API<br/>Port 8000]
+    D --> F[🤖 TensorFlow Model]
+    E --> G[🤖 TensorFlow Model]
+    F --> H[📊 Disease Results]
+    G --> I[📊 Soil Analysis]
+    H --> B
+    I --> B
 ```
 
+</div>
+
+### 🏗️ Components
+- **Frontend**: React.js application (Port 3000)
+- **Crop Disease API**: FastAPI + TensorFlow (Port 8001)
+- **Soil Analysis API**: FastAPI + TensorFlow (Port 8000)
+
 ---
 
+## 🌾 Supported Crop Diseases
 
-**Tools & Platforms** • Git • GitHub • Docker • GitLab
+<div align="center">
 
-### 🤖 Core Technologies & Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+| 🌽 **Corn** | 🥔 **Potato** | 🌾 **Rice** | 🎋 **Sugarcane** | 🌾 **Wheat** |
+|-------------|---------------|-------------|------------------|---------------|
+| Common Rust | Early Blight  | Brown Spot  | Bacterial Blight | Brown Rust    |
+| Gray Leaf Spot | Late Blight | Leaf Blast  | Red Rot         | Yellow Rust   |
+| Northern Leaf Blight | Healthy | Neck Blast | Healthy | Healthy |
+| Healthy | | Healthy | | |
 
-### 🧠 Machine Learning & AI Frameworks
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-
-### 🚀 AI & GenAI Stack
-![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 📊 Data Science & Visualization
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-
-### 🌐 Web & Development Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
+**Total: 17 Disease Categories Detected** 🎯
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📖 Detailed Setup Guide
+
+### 🎯 What You'll Learn
+
+<table>
+  <tr>
+    <td width="50%">
+      
+**🔧 Technical Setup**
+- Complete prerequisites installation
+- Step-by-step configuration
+- Virtual environment setup
+- Dependency management
+- Port configuration
+      
+    </td>
+    <td width="50%">
+      
+**🚀 System Operation**
+- Running 3 services simultaneously
+- Testing with sample images
+- API endpoint usage
+- Troubleshooting common issues
+- Performance optimization
+      
+    </td>
+  </tr>
+</table>
+
+### 🌟 What You'll Build
+- 🖥️ Interactive web interface for farmers
+- 🤖 AI-powered disease detection system
+- 🌱 Soil analysis and classification tool
+- 📊 Real-time results and recommendations
+
+**📚 [Complete Setup Guide →](./DETAILED_SETUP_GUIDE.md)**
+
+---
+
+## 🎮 How to Use
 
 <div align="center">
-  
-### 🎨 Contribution Constellation
-  
+
+### 🔄 Simple 4-Step Process
+
 ```
-         🌟 Every commit is a star in my coding galaxy 🌟
-    
-    ╭─────────────────────────────────────────────────────╮
-    │  🚀 Building • Learning • Creating • Innovating    │  
-    │     ░▒▓█ Contribution Graph Magic Below █▓▒░       │
-    ╰─────────────────────────────────────────────────────╯
+📱 Upload Image → 🤖 AI Analysis → 📊 Get Results → 💡 Take Action
 ```
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&custom_title=🔥%20Aditya's%20Code%20Journey%20Through%20Time%20🔥&hide_border=true&radius=16&area=true&order=5&bg_color=0,000c40,0c4a6e,0284c7,0ea5e9,38bdf8&color=ffffff&line=60a5fa&point=ffffff&area_color=1e40af,3b82f6" width="100%" alt="Contribution Graph"/>
-
 </div>
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adityagupta930&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&custom_title=⚡%20GitHub%20Stats%20Universe" alt="Aditya's GitHub Stats" />
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta930&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117&custom_title=🎯%20Language%20Mastery" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta930&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=ffffff" alt="🔥 Coding Streak Fire" />
-</div>
+1. **🚀 Start Services**: Run all 3 components (Frontend + 2 APIs)
+2. **🌐 Open Browser**: Navigate to `http://localhost:3000`
+3. **📸 Upload Images**: Select crop or soil photos for analysis
+4. **📊 View Results**: Get instant AI-powered insights and recommendations
 
 ---
 
-<div align="center">
-
-## 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityagupta930&theme=onedark&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github.com/adityagupta930)
-
-</div>
-
----
+## 📚 Documentation
 
 <div align="center">
 
-## 🌐 Let's Connect & Collaborate!
-
-<p>
-<a href="https://www.linkedin.com/in/aditya-gupta-943b52243/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/adityagupta021103"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/h210305124076"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://leetcode.com/u/aditya_gupta_02/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-</p>
-
-### 💌 Let's build something amazing together!
+| 📖 **Guide** | 🎯 **Purpose** | 🔗 **Link** |
+|--------------|----------------|-------------|
+| Setup Guide | Complete installation instructions | [DETAILED_SETUP_GUIDE.md](./DETAILED_SETUP_GUIDE.md) |
+| Full Documentation | Technical specs & API details | [DOCUMENTATION.md](./DOCUMENTATION.md) |
+| Model Training | Jupyter notebooks for AI models | `NoteBook/` directory |
 
 </div>
 
@@ -259,22 +209,18 @@ flowchart TD
 
 <div align="center">
 
-## 🎨 Random Dev Wisdom
+## 🤝 Connect & Collaborate
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gupta-943b52243/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/adityagupta021103)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/h210305124076)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aditya_gupta_02/)
 
----
-
-### 🌟 *"In the realm of data, every byte tells a story, every pattern reveals truth, and every model opens new possibilities!"*
+### 💭 *"Technology should serve humanity, and agriculture feeds humanity"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer"/>
 
-```
-⭐ Star my repos if you find them interesting!
-🤝 Always open to exciting collaborations!
-☕ Powered by coffee and curiosity!
-```
-
-**Thanks for visiting! Keep coding, keep learning! 🚀✨**
+**⭐ Star this repo if you find it helpful!**
+**🤝 Contributions and feedback are always welcome!**
 
 </div>
