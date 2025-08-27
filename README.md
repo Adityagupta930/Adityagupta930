@@ -35,7 +35,7 @@
 
 <table>
   <tr>
-    <td width="40%">
+    <td width="30%">
         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Data Analysis Detective GIF">
       
 ### 🌟 At a Glance
@@ -48,8 +48,6 @@ motto: "Every dataset has a secret to tell!"
 current_obsession: GenAI & Advanced ML Systems
 ```
 
-    </td>
-    <td width="60%">
 
 ### 👋 Hello World! 
 
@@ -84,7 +82,7 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
     <td align="center">🔧<br><b>Fine-tuning</b><br>█████████░░░ 88%</td>
     <td align="center">🔗<br><b>RAG Systems</b><br>██████████░░ 85%</td>
     <td align="center">🗄️<br><b>SQL/Databases</b><br>██████████░░ 87%</td>
-    <td align="center">🛠️<br><b>MLOps</b><br>████████░░░░ 82%</td>
+    <td align="center">🛠️<br><b>LLMs</b><br>████████░░░░ 82%</td>
   </tr>
 </table>
 
