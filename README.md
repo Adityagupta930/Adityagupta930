@@ -77,6 +77,9 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 ---
 
+
+
+
 <div align="center">
 
 ### 🎯 Technical Mastery Matrix
@@ -84,7 +87,7 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 <table>
   <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+      <img src="[https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wi6labs.com%2Fen%2F2019%2F12%2F19%2Fiot-geolocation-and-sx1280-ranging-the-experiment-conducted-by-wi6labs%2Fmachine-learning-logo-2%2F&psig=AOvVaw0aSlZiPTboyGaOJbb2stJO&ust=1756403526300000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJipipXHq48DFQAAAAAdAAAAABAE)" width="100"><br>
       <b>Machine Learning</b><br>
       <progress value="95" max="100"></progress> 95%
     </td>
