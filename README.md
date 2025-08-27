@@ -32,62 +32,122 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<div align="center">
 
-## 🎯 About This Data Wizard
+## 🌟 Meet The Data Architect 🌟
 
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+</div>
 
-class AdityaGupta:
-    """
-    🧙‍♂️ Data Wizard & AI Alchemist
-    Transforming raw bytes into golden insights!
-    """
-    
-    def __init__(self):
-        self.name = "Aditya Gupta"
-        self.role = "🤖 Data Scientist & ML Engineer"
-        self.location = "🇮🇳 India"
-        self.languages_spoken = ["Python", "SQL", "JavaScript", "English", "Hindi"]
-        self.current_mission = "🚀 Building AI that actually helps humans"
-        self.superpower = "Finding needles in data haystacks! 🔍"
-        self.coffee_addiction_level = "MAXIMUM ☕️"
-    
-    def get_expertise(self):
-        return {
-            "🧠 ai_ml": ["TensorFlow", "Scikit-learn", "Deep Learning", "Neural Networks"],
-            "🐍 python_stack": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
-            "🗃️ databases": ["MongoDB", "MySQL", "PostgreSQL"],
-            "☁️ cloud_platforms": ["AWS", "Google Cloud", "Azure"],
-            "🌐 web_tech": ["HTML5", "CSS3", "Node.js", "React"],
-            "🛠️ tools": ["Jupyter", "Git", "Docker", "Linux"]
-        }
-    
-    def current_status(self):
-        return {
-            "🔬 working_on": "Advanced ML algorithms for real-world problems",
-            "📚 learning": "Generative AI & Large Language Models",
-            "🤝 collaborating_on": "Open source ML projects",
-            "💬 ask_me_about": "Data Science, Machine Learning, Python",
-            "⚡ fun_fact": "I debug code faster than I debug my life! 😄"
-        }
-    
-    def get_daily_routine(self):
-        routine = [
-            "☕ Coffee.brew(strength='strong')",
-            "💻 Code.write(bugs=0)",  # Wishful thinking
-            "📊 Data.analyze(insights='amazing')",
-            "🧠 AI.train(epochs='until_perfect')",
-            "🔄 Repeat.infinitely()"
-        ]
-        return routine
+<table>
+  <tr>
+    <td width="35%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Data Science GIF">
+    </td>
+    <td width="65%">
 
-# Initialize the data wizard
-aditya = AdityaGupta()
-print(f"🎉 Welcome to {aditya.name}'s AI Laboratory!")
+### 🚀 Hey there! I'm Aditya
+
+> *"I turn coffee into code, and data into gold!"* ☕️➡️💻➡️✨
+
+I'm a **passionate Data Scientist** who believes that behind every dataset lies a story waiting to be told. With a blend of analytical thinking and creative problem-solving, I transform complex data puzzles into actionable insights that drive real-world impact.
+
+🎯 **My Mission**: Building intelligent systems that make life easier, one algorithm at a time!
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🧬 My DNA Code
+
+```json
+{
+  "identity": {
+    "name": "Aditya Gupta",
+    "alias": "The Pattern Hunter 🕵️‍♂️",
+    "location": "India 🇮🇳",
+    "timezone": "Always coding ⏰"
+  },
+  "skills": {
+    "hard_skills": ["Python", "Machine Learning", "Deep Learning", "SQL", "Data Viz"],
+    "soft_skills": ["Problem Solving", "Critical Thinking", "Curiosity", "Persistence"],
+    "secret_weapons": ["Pattern Recognition", "Statistical Intuition", "Coffee Powered Debugging"]
+  },
+  "passions": [
+    "🤖 Artificial Intelligence",
+    "📊 Data Storytelling", 
+    "🔬 Research & Innovation",
+    "🌱 Continuous Learning",
+    "🎯 Problem Solving"
+  ],
+  "current_quest": "Mastering the art of making machines think! 🧠⚡",
+  "philosophy": "Data without insights is just noise. Insights without action are just dreams.",
+  "fuel": "☕ Coffee + 🎵 Lo-fi + 💡 Curiosity"
+}
 ```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎮 My Stats Dashboard
+
+<table>
+  <tr>
+    <td align="center"><strong>🔥 Streak</strong></td>
+    <td align="center"><strong>⚡ Power Level</strong></td>
+    <td align="center"><strong>🎯 Focus</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Daily Problem Solver</td>
+    <td align="center">Data Wizard Level 99</td>
+    <td align="center">AI & Machine Learning</td>
+  </tr>
+</table>
+
+### 💭 What Drives Me
+
+```mermaid
+mindmap
+  root((Aditya's World))
+    Data Science
+      Machine Learning
+      Deep Learning
+      Statistical Analysis
+    Innovation
+      AI Research
+      Problem Solving
+      Creative Solutions
+    Growth
+      Continuous Learning
+      Open Source
+      Knowledge Sharing
+    Impact
+      Real-world Applications
+      Helping Others
+      Building the Future
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌈 Fun Facts About Me
+
+| 🎲 Random | 🎯 Professional | 🎨 Creative |
+|-----------|-----------------|-------------|
+| Can find patterns in my breakfast cereal | Speak fluent Python & SQL | Turn boring charts into visual stories |
+| Debug code at 3 AM like a ninja | Built ML models that actually work | Make data dance with visualizations |
+| Collect cool datasets like others collect stamps | Automate everything possible | Dream in algorithms and flowcharts |
+
+</div>
 
 ---
 
