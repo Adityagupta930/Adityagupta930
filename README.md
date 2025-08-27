@@ -84,7 +84,7 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 <table>
   <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
       <b>Machine Learning</b><br>
       <progress value="95" max="100"></progress> 95%
     </td>
@@ -210,13 +210,6 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0969da&area=true&hide_border=true" alt="Aditya's Activity Graph" />
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adityagupta930&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
-
 </div>
 
 ---
