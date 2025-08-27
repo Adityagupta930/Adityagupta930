@@ -30,7 +30,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/adityagupta930?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 </div>
+<div align="center">
 
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-gupta-943b52243/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_adi_gupta02/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_gupta_02/)
+
+</div>
 ---
 
 <div align="center">
