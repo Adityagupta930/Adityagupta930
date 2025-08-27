@@ -13,6 +13,7 @@
 <div align="center">
 
 ## 🚀 *"Turning Data into Magic, One Algorithm at a Time"* ✨
+### *~ Aditya*
 
 ```ascii
      ╭─────────────────────────────────────────╮
@@ -183,31 +184,41 @@ flowchart TD
 
 <div align="center">
 
-## 🛠️ My Tech Arsenal
+## 🛠️ My Tech Arsenal & Skills
 
-### 🤖 AI/ML Powerhouse
+### 🎯 Technical Skills
+**Machine Learning & AI** • Machine Learning • Deep Learning • NLP • Fine-tuning • GenAI • RAG • LangChain • LlamaIndex • LangGraph • CrewAI • OpenAI Swarm • LangFlow • LangSmith
+
+**Languages & Frameworks** • Python • SQL • HTML • CSS3 • TensorFlow • Scikit-learn • Keras • Flask • FastAPI • PyTorch • Matplotlib • Seaborn • Pandas • NumPy • Pydantic • Shell
+
+**Tools & Platforms** • Git • GitHub • Docker • GitLab
+
+### 🤖 Core Technologies
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 🚀 AI & GenAI Stack
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 📊 Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 📊 Data Visualization Magic
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🗄️ Database Mastery
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🌐 Web Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Web & Development Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </div>
 
@@ -216,17 +227,30 @@ flowchart TD
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adityagupta930&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Aditya's GitHub Stats" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta930&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117" />
+### 🎨 Contribution Constellation
+  
+```
+         🌟 Every commit is a star in my coding galaxy 🌟
+    
+    ╭─────────────────────────────────────────────────────╮
+    │  🚀 Building • Learning • Creating • Innovating    │  
+    │     ░▒▓█ Contribution Graph Magic Below █▓▒░       │
+    ╰─────────────────────────────────────────────────────╯
+```
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&custom_title=🔥%20Aditya's%20Code%20Journey%20Through%20Time%20🔥&hide_border=true&radius=16&area=true&order=5&bg_color=0,000c40,0c4a6e,0284c7,0ea5e9,38bdf8&color=ffffff&line=60a5fa&point=ffffff&area_color=1e40af,3b82f6" width="100%" alt="Contribution Graph"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta930&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="adityagupta930" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adityagupta930&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&custom_title=⚡%20GitHub%20Stats%20Universe" alt="Aditya's GitHub Stats" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta930&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117&custom_title=🎯%20Language%20Mastery" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0969da&area=true&hide_border=true" alt="Aditya's Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta930&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=ffffff" alt="🔥 Coding Streak Fire" />
 </div>
 
 ---
@@ -238,51 +262,6 @@ flowchart TD
 [![trophy](https://github-profile-trophy.vercel.app/?username=adityagupta930&theme=onedark&no-frame=true&row=1&margin-w=20&no-bg=true)](https://github.com/adityagupta930)
 
 </div>
-
----
-
-## 🚀 Current Projects & Focus
-
-<table>
-  <tr>
-    <td width="50%">
-      
-### 🔮 What I'm Working On
-```yaml
-current_projects:
-  - name: "Smart Analytics Platform"
-    tech: ["Python", "TensorFlow", "React"]
-    status: "🚧 In Development"
-    
-  - name: "ML Model Optimization"
-    tech: ["Scikit-learn", "Docker"]
-    status: "🔬 Research Phase"
-    
-  - name: "Data Pipeline Automation"
-    tech: ["Python", "MongoDB", "AWS"]
-    status: "✅ MVP Ready"
-```
-
-    </td>
-    <td width="50%">
-      
-### 🎯 Learning Journey
-```yaml
-currently_learning:
-  - "🤖 Generative AI & LLMs"
-  - "☁️ MLOps & Model Deployment"
-  - "📊 Advanced Deep Learning"
-  - "🔐 AI Ethics & Responsible AI"
-  
-next_goals:
-  - "🎓 AI Research Publication"
-  - "🌟 Open Source Contributions"
-  - "🏆 Kaggle Grandmaster"
-```
-
-    </td>
-  </tr>
-</table>
 
 ---
 
