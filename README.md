@@ -156,14 +156,6 @@ flowchart TD
 
 ---
 
-<div align="center">
-
-## 🛠️ My Tech Arsenal & Skills
-
-### 🎯 Technical Skills
-**Machine Learning & AI** • Machine Learning • Deep Learning • NLP • Fine-tuning • GenAI • RAG • LangChain • LlamaIndex • LangGraph • CrewAI • OpenAI Swarm • LangFlow • LangSmith
-
-**Languages & Frameworks** • Python • SQL • HTML • CSS3 • TensorFlow • Scikit-learn • Keras • Flask • FastAPI • PyTorch • Matplotlib • Seaborn • Pandas • NumPy • Pydantic • Shell
 
 **Tools & Platforms** • Git • GitHub • Docker • GitLab
 
