@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td width="70%">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Data Analysis Detective GIF">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="50%" alt="Data Analysis Detective GIF">
       
 ### 🌟 At a Glance
 ```yaml
