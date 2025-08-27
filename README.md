@@ -34,23 +34,23 @@
 
 <div align="center">
 
-## 🎭 The Data Storyteller's Journey 🎭
+## 🤖 The AI Engineering Journey 🚀
 
 </div>
 
 <table>
   <tr>
     <td width="40%">
-      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="Brain AI GIF">
+      <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100%" alt="AI Neural Network GIF">
       
 ### 🌟 At a Glance
 ```yaml
 name: Aditya Gupta
-role: Data Alchemist 🧪
-specialty: Transforming Raw Data → Golden Insights
+role: AI Engineer & Data Scientist 🤖
+specialty: Building Intelligent AI Systems
 based_in: India 🇮🇳
 motto: "Every dataset has a secret to tell!"
-current_obsession: Making AI more human-friendly
+current_obsession: GenAI & Advanced ML Systems
 ```
 
     </td>
@@ -58,15 +58,15 @@ current_obsession: Making AI more human-friendly
 
 ### 👋 Hello World! 
 
-I'm **Aditya** - part detective 🕵️, part artist 🎨, and full-time data enthusiast! 
+I'm **Aditya** - part AI architect 🏗️, part data wizard 🧙‍♂️, and full-time technology enthusiast! 
 
-Think of me as a **digital archaeologist** who digs through mountains of data to uncover hidden treasures. Whether it's predicting customer behavior, optimizing business processes, or building smart AI systems, I love turning chaos into clarity.
+Think of me as an **AI systems builder** who crafts intelligent solutions from raw data. Whether it's fine-tuning language models, building RAG systems, or deploying scalable ML pipelines, I love creating AI that actually makes a difference.
 
 **What makes me tick?** 
-- 🧩 Solving complex puzzles that others find impossible
-- 🚀 Building AI that actually makes sense (and works!)
-- 📚 Learning something new every single day
-- ☕ Converting caffeine into code at supernatural speeds
+- 🧩 Building end-to-end AI solutions that solve real problems
+- 🚀 Experimenting with cutting-edge GenAI technologies
+- 📚 Continuous learning in the rapidly evolving AI landscape
+- ☕ Converting caffeine into intelligent code
 
     </td>
   </tr>
@@ -76,94 +76,22 @@ Think of me as a **digital archaeologist** who digs through mountains of data to
 
 <div align="center">
 
-### 🎯 My Superpower Matrix
+### 🎯 Technical Mastery Matrix
 
 <table>
   <tr>
-    <td align="center">🔬<br><b>Data Science</b><br>████████████ 95%</td>
-    <td align="center">🤖<br><b>Machine Learning</b><br>██████████░░ 90%</td>
-    <td align="center">🐍<br><b>Python</b><br>███████████░ 92%</td>
-    <td align="center">📊<br><b>Visualization</b><br>█████████░░░ 88%</td>
+    <td align="center">🤖<br><b>Machine Learning</b><br>███████████░ 95%</td>
+    <td align="center">🧠<br><b>Deep Learning</b><br>██████████░░ 92%</td>
+    <td align="center">🔤<br><b>NLP & GenAI</b><br>█████████░░░ 90%</td>
+    <td align="center">🐍<br><b>Python</b><br>███████████░ 95%</td>
   </tr>
   <tr>
-    <td align="center">🗄️<br><b>SQL/Databases</b><br>██████████░░ 85%</td>
-    <td align="center">☁️<br><b>Cloud Computing</b><br>████████░░░░ 80%</td>
-    <td align="center">🌐<br><b>Web Tech</b><br>███████░░░░░ 75%</td>
-    <td align="center">☕<br><b>Coffee Brewing</b><br>████████████ 100%</td>
+    <td align="center">🔧<br><b>Fine-tuning</b><br>█████████░░░ 88%</td>
+    <td align="center">🔗<br><b>RAG Systems</b><br>██████████░░ 85%</td>
+    <td align="center">🗄️<br><b>SQL/Databases</b><br>██████████░░ 87%</td>
+    <td align="center">🛠️<br><b>MLOps</b><br>████████░░░░ 82%</td>
   </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-### 🎪 The Three Acts of My Data Story
-
-</div>
-
-<table>
-  <tr>
-    <th width="33%">🎬 Act I: Discovery</th>
-    <th width="33%">🎯 Act II: Innovation</th>
-    <th width="33%">🚀 Act III: Impact</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/clouds/100/000000/search.png" width="60"><br>
-      <b>The Explorer Phase</b><br>
-      🔍 Finding patterns in chaos<br>
-      📈 Discovering hidden insights<br>
-      🧪 Experimenting with new techniques
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/clouds/100/000000/artificial-intelligence.png" width="60"><br>
-      <b>The Creator Phase</b><br>
-      🛠️ Building intelligent systems<br>
-      ⚡ Optimizing algorithms<br>
-      🎨 Crafting beautiful visualizations
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/clouds/100/000000/rocket.png" width="60"><br>
-      <b>The Impactor Phase</b><br>
-      🌍 Solving real-world problems<br>
-      💡 Sharing knowledge with community<br>
-      🤝 Mentoring aspiring data scientists
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-### 🎨 My Creative Process
-
-</div>
-
-```mermaid
-flowchart TD
-    A[☕ Grab Coffee] --> B[🤔 Ask Curious Questions]
-    B --> C[📊 Explore Data Like a Detective]
-    C --> D[🧪 Experiment with Models]
-    D --> E[🎯 Build Something Amazing]
-    E --> F[📚 Share Knowledge]
-    F --> G[🔄 Repeat with More Coffee]
-    G --> A
-```
-
----
-
-<div align="center">
-
-### 🎪 Fun Facts That Make Me... Me!
-
-| 🌟 **Quirky** | 🎯 **Professional** | 🚀 **Ambitious** |
-|:-------------:|:-------------------:|:-----------------:|
-| I name my variables after Marvel characters | I've built models that predict pizza delivery times | Working on AI that can understand dad jokes |
-| Can spot data anomalies faster than typos | Automated my morning routine (except coffee making) | Goal: Make AI accessible to everyone |
-| My idea of relaxation is cleaning datasets | Love explaining complex ML concepts simply | Dream: Contributing to breakthrough AI research |
 
 </div>
 
@@ -173,9 +101,9 @@ flowchart TD
 
 ### 💭 My Current Mindset
 
-> *"I believe that the best data scientists are not just statisticians or programmers - they are storytellers who happen to speak fluent Python. Every dataset is a book waiting to be read, every algorithm is a tool waiting to be wielded, and every insight is a story waiting to be told."*
+> *"I believe that the future belongs to those who can build AI systems that not only perform well but also understand context, reason effectively, and interact naturally with humans. Every model I fine-tune, every RAG system I build, and every pipeline I deploy is a step towards that intelligent future."*
 
-**🎯 Mission**: To bridge the gap between complex AI and human understanding, one project at a time.
+**🎯 Mission**: To create AI systems that bridge the gap between human intelligence and machine capability, making advanced AI accessible and practical for everyone.
 
 </div>
 
@@ -183,31 +111,53 @@ flowchart TD
 
 <div align="center">
 
-## 🛠️ My Tech Arsenal
+## 🛠️ My Advanced Tech Arsenal
 
-### 🤖 AI/ML Powerhouse
+### 🤖 Core AI/ML Technologies
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+
+### 🧠 Advanced AI & NLP
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-8B5A2C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/📊_LangGraph-FF6B6B?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/👥_CrewAI-4ECDC4?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### 🔧 Development Tools & Frameworks
+![LangFlow](https://img.shields.io/badge/🌊_LangFlow-45B7D1?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/🔨_LangSmith-96CEB4?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+### 📊 Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 📊 Data Visualization Magic
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗄️ Database Mastery
+### 🗄️ Databases & Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Web Technologies
+### 🌐 Web Technologies & DevOps
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -250,16 +200,16 @@ flowchart TD
 ### 🔮 What I'm Working On
 ```yaml
 current_projects:
-  - name: "Smart Analytics Platform"
-    tech: ["Python", "TensorFlow", "React"]
+  - name: "Enterprise RAG System"
+    tech: ["LangChain", "LlamaIndex", "FastAPI"]
     status: "🚧 In Development"
     
-  - name: "ML Model Optimization"
-    tech: ["Scikit-learn", "Docker"]
+  - name: "Multi-Agent AI Workflow"
+    tech: ["CrewAI", "LangGraph", "OpenAI"]
     status: "🔬 Research Phase"
     
-  - name: "Data Pipeline Automation"
-    tech: ["Python", "MongoDB", "AWS"]
+  - name: "LLM Fine-tuning Pipeline"
+    tech: ["PyTorch", "Hugging Face", "Docker"]
     status: "✅ MVP Ready"
 ```
 
@@ -269,15 +219,15 @@ current_projects:
 ### 🎯 Learning Journey
 ```yaml
 currently_learning:
-  - "🤖 Generative AI & LLMs"
-  - "☁️ MLOps & Model Deployment"
-  - "📊 Advanced Deep Learning"
-  - "🔐 AI Ethics & Responsible AI"
+  - "🤖 Advanced LLM Architectures"
+  - "🔧 Model Optimization & Quantization"
+  - "📊 Multi-modal AI Systems"
+  - "🔐 AI Safety & Alignment"
   
 next_goals:
   - "🎓 AI Research Publication"
-  - "🌟 Open Source Contributions"
-  - "🏆 Kaggle Grandmaster"
+  - "🌟 Open Source AI Contributions"
+  - "🏆 Kaggle Competitions"
 ```
 
     </td>
@@ -297,7 +247,7 @@ next_goals:
 <a href="https://leetcode.com/u/aditya_gupta_02/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
 </p>
 
-### 💌 Let's build something amazing together!
+### 💌 Let's build the future of AI together!
 
 </div>
 
@@ -311,16 +261,16 @@ next_goals:
 
 ---
 
-### 🌟 *"In the realm of data, every byte tells a story, every pattern reveals truth, and every model opens new possibilities!"*
+### 🌟 *"In the realm of AI, every model tells a story, every fine-tune reveals potential, and every system opens new possibilities!"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer"/>
 
 ```
 ⭐ Star my repos if you find them interesting!
-🤝 Always open to exciting collaborations!
-☕ Powered by coffee and curiosity!
+🤝 Always open to exciting AI collaborations!
+☕ Powered by coffee and cutting-edge AI!
 ```
 
-**Thanks for visiting! Keep coding, keep learning! 🚀✨**
+**Thanks for visiting! Keep building, keep innovating! 🚀✨**
 
 </div>
