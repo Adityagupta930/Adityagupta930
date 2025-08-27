@@ -1,10 +1,15 @@
 <div align="center">🌌 Welcome to the Data Multiverse 🌌</div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gupta;AI+Engineer+%26+Data+Scientist;%F0%9F%94%8D+Pattern+Detective+%F0%9F%95%B5%EF%B8%8F;Neural+Network+Architect+%F0%9F%A7%A0;Building+Intelligent+AI+Systems+%F0%9F%9A%80;Decoding+Data+Mysteries+%F0%9F%94%AE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gupta;AI+Engineer+%26+Data+Scientist;%F0%9F%94%8D+Pattern+Detective+%F0%9F%95%B5%EF%B8%8F;Neural+Network+Architect+%F0%9F%A7%A0;Building+Intelligent+AI+Systems+%F0%9F%9A%80;Decoding+Data+Mysteries+%F0%9F%94%AE;Coffee+%E2%86%92+Code+%E2%86%92+AI+Magic+%E2%9C%A8" alt="Typing SVG" />
+  
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  </div>
+  
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
----
 
+---
 
 <div align="center">
 
@@ -31,13 +36,17 @@
 <div align="center">
 ## 🤖 The AI Engineering Journey 🚀
 </div>
+
 <table>
   <tr>
-    <td width="90%">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" height="400px" alt="Data Analysis Detective GIF">
- 
+    <td width="50%">
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400px" alt="Coding GIF">
+      </div>
+    </td>
+    <td width="50%">
       
-🌟 At a Glance
+### 🌟 At a Glance
 ```yaml
 name: Aditya Gupta
 role: AI Engineer & Data Scientist 🤖
@@ -45,8 +54,8 @@ specialty: Building Intelligent AI Systems
 based_in: India 🇮🇳
 motto: "Every dataset has a secret to tell!"
 current_obsession: GenAI & Advanced ML Systems
+daily_routine: Coffee ☕ → Code 💻 → Debug 🐛 → Repeat 🔄
 ```
-
 
 ### 👋 Hello World! 
 
@@ -59,6 +68,8 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 - 🚀 Experimenting with cutting-edge GenAI technologies
 - 📚 Continuous learning in the rapidly evolving AI landscape
 - ☕ Converting caffeine into intelligent code
+- 🎵 Coding with lo-fi beats in the background
+- 🌙 Night owl who thinks best after 10 PM
 
     </td>
   </tr>
@@ -72,16 +83,26 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 <table>
   <tr>
-    <td align="center">🤖<br><b>Machine Learning</b><br>███████████░ 95%</td>
-    <td align="center">🧠<br><b>Deep Learning</b><br>██████████░░ 92%</td>
-    <td align="center">🔤<br><b>NLP & GenAI</b><br>█████████░░░ 90%</td>
-    <td align="center">🐍<br><b>Python</b><br>███████████░ 95%</td>
-  </tr>
-  <tr>
-    <td align="center">🔧<br><b>Fine-tuning</b><br>█████████░░░ 88%</td>
-    <td align="center">🔗<br><b>RAG Systems</b><br>██████████░░ 85%</td>
-    <td align="center">🗄️<br><b>SQL/Databases</b><br>██████████░░ 87%</td>
-    <td align="center">🛠️<br><b>LLMs</b><br>████████░░░░ 82%</td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
+      <b>Machine Learning</b><br>
+      <progress value="95" max="100"></progress> 95%
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
+      <b>Deep Learning</b><br>
+      <progress value="92" max="100"></progress> 92%
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ad5cd.gif" width="100"><br>
+      <b>NLP & GenAI</b><br>
+      <progress value="90" max="100"></progress> 90%
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"><br>
+      <b>Python</b><br>
+      <progress value="95" max="100"></progress> 95%
+    </td>
   </tr>
 </table>
 
@@ -93,9 +114,18 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 ### 💭 My Current Mindset
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
 > *"I believe that the future belongs to those who can build AI systems that not only perform well but also understand context, reason effectively, and interact naturally with humans. Every model I fine-tune, every RAG system I build, and every pipeline I deploy is a step towards that intelligent future."*
 
 **🎯 Mission**: To create AI systems that bridge the gap between human intelligence and machine capability, making advanced AI accessible and practical for everyone.
+
+**🏆 Fun Facts About Me:**
+- 🕐 I code best between 10 PM - 2 AM (night owl energy!)
+- 🎧 My productivity triples with the right playlist
+- 🐛 I once spent 6 hours debugging a missing comma (worth it!)
+- 📊 I see patterns everywhere - even in my morning coffee foam
+- 🚀 My dream: Building an AI that can explain itself better than I can
 
 </div>
 
@@ -104,6 +134,13 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 <div align="center">
 
 ## 🛠️ My Advanced Tech Arsenal
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4da1-b5ed-7ca54012cd84.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+</div>
 
 ### 🤖 Core AI/ML Technologies
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -148,14 +185,18 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+</div>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adityagupta930&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Aditya's GitHub Stats" />
@@ -171,6 +212,42 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0969da&area=true&hide_border=true" alt="Aditya's Activity Graph" />
 </div>
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adityagupta930&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</div>
+
+</div>
+
 ---
 
 <div align="center">
+
+## 🤝 Let's Connect & Build Something Amazing!
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
+</div>
+
+**Ready to dive into some AI magic?** Whether you want to discuss the latest in GenAI, collaborate on an ML project, or just geek out about transformers and neural networks, I'm always up for a good tech conversation!
+
+```python
+def connect_with_aditya():
+    interests = ["AI/ML", "Data Science", "GenAI", "Open Source"]
+    if your_interest in interests:
+        return "Let's build something amazing together! 🚀"
+    else:
+        return "Still happy to chat about tech! 💬"
+
+# Always returns: Let's collaborate! 
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
