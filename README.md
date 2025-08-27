@@ -34,7 +34,7 @@
 ---
 
 <div align="center">
-## 🤖 The AI Engineering Journey 🚀
+🤖 The AI Engineering Journey 🚀
 </div>
 
 <table>
