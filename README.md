@@ -28,16 +28,12 @@
 ---
 
 <div align="center">
-
 ## 🤖 The AI Engineering Journey 🚀
-
 </div>
-
 <table>
   <tr>
     <td width="70%">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="90%" alt="Data Analysis Detective GIF">
-      
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="90%" height="200px" alt="Data Analysis Detective GIF">
 ### 🌟 At a Glance
 ```yaml
 name: Aditya Gupta
