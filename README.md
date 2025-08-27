@@ -83,8 +83,8 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><br>
+    <td align="center"><br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=800&color=0b5394&center=true&vCenter=true&width=120&height=40&lines=ML;MACHINE;LEARNING" alt="ML" width="100"><br><br>
       <b>Machine Learning</b><br>
       <progress value="95" max="100"></progress> 95%
     </td>
@@ -94,7 +94,7 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
       <progress value="92" max="100"></progress> 92%
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ad5cd.gif" width="100"><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&width=300&lines=GenAI" width="100"><br><br>
       <b>NLP & GenAI</b><br>
       <progress value="90" max="100"></progress> 90%
     </td>
