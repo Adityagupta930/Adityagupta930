@@ -84,7 +84,7 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 <table>
   <tr>
     <td align="center">
-      <img src="[https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)" width="100"><br>
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><br>
       <b>Machine Learning</b><br>
       <progress value="95" max="100"></progress> 95%
     </td>
