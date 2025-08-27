@@ -90,12 +90,12 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
       <progress value="95" max="100"></progress> 95%
     </td>
     <td align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=180&height=50&lines=[DL];[NEURAL NETWORK];[DEEP LEARNING]" alt="DL Matrix" width="130">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=150&height=40&lines=[NEURAL];[DL]" alt="DL Matrix" width="130">
       <b>Deep Learning</b><br>
       <progress value="92" max="100"></progress> 92%
     </td>
     <td align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2000&pause=500&color=4ECDC4&center=true&vCenter=true&width=300&lines=GenAI" width="100"><br><br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=150&height=40&lines=[GenAI];[NLP]" alt="GenAI Matrix" width="130">
       <b>NLP & GenAI</b><br>
       <progress value="90" max="100"></progress> 90%
     </td>
