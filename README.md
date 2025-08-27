@@ -191,48 +191,9 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 ---
 
-## 🚀 Current Projects & Focus
-
-<table>
-  <tr>
-    <td width="50%">
-      
-### 🔮 What I'm Working On
-```yaml
-current_projects:
-  - name: "Enterprise RAG System"
-    tech: ["LangChain", "LlamaIndex", "FastAPI"]
-    status: "🚧 In Development"
-    
-  - name: "Multi-Agent AI Workflow"
-    tech: ["CrewAI", "LangGraph", "OpenAI"]
-    status: "🔬 Research Phase"
-    
-  - name: "LLM Fine-tuning Pipeline"
-    tech: ["PyTorch", "Hugging Face", "Docker"]
-    status: "✅ MVP Ready"
 ```
 
-    </td>
-    <td width="50%">
-      
-### 🎯 Learning Journey
-```yaml
-currently_learning:
-  - "🤖 Advanced LLM Architectures"
-  - "🔧 Model Optimization & Quantization"
-  - "📊 Multi-modal AI Systems"
-  - "🔐 AI Safety & Alignment"
-  
-next_goals:
-  - "🎓 AI Research Publication"
-  - "🌟 Open Source AI Contributions"
-  - "🏆 Kaggle Competitions"
-```
 
-    </td>
-  </tr>
-</table>
 
 ---
 
