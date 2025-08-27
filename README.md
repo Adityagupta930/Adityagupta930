@@ -84,7 +84,8 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 <table>
   <tr>
     <td align="center"><br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=800&color=0b5394&center=true&vCenter=true&width=120&height=40&lines=ML;MACHINE;LEARNING" alt="ML" width="100"><br><br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=800&color=0b5394&center=true&vCenter=true&width=180&height=50&lines=ML;MACHINE;LEARNING" alt="MACHINE LEARNING" width="150">
+<br><br>
       <b>Machine Learning</b><br>
       <progress value="95" max="100"></progress> 95%
     </td>
