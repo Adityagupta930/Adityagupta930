@@ -30,6 +30,9 @@
 ![GitHub followers](https://img.shields.io/github/followers/adityagupta930?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
 </div>
+
+---
+
 <div align="center">
 
 ### 🤝 Connect With Me
@@ -40,10 +43,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityagupta021103@gmail.com)
 
 </div>
+
 ---
 
 <div align="center">
+
 ## 🤖 The AI Engineering Journey 🚀
+
 </div>
 
 <table>
@@ -205,24 +211,24 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 <div align="center">
 
-## 📊 GitHub Analytics Dashboard
+## 📊 Real-Time GitHub Analytics Dashboard
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
 </div>
 
+### 📈 Live GitHub Statistics
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adityagupta930&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Aditya's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adityagupta930&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Aditya's Real-Time GitHub Stats" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta930&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta930&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117&cache_seconds=1800" />
 </div>
 
+### 📅 Yearly Contribution Activity (Real-Time)
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta930&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" alt="adityagupta930" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0969da&area=true&hide_border=true&cache_seconds=1800" alt="Real-Time Activity Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0969da&area=true&hide_border=true" alt="Aditya's Activity Graph" />
 </div>
 
 ---
