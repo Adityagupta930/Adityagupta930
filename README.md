@@ -28,6 +28,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adityagupta930&label=Visitors&color=blueviolet&style=for-the-badge&logo=github)
 ![GitHub followers](https://img.shields.io/github/followers/adityagupta930?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![GitHub User's stars](https://img.shields.io/github/stars/adityagupta930?style=for-the-badge&color=yellow&labelColor=1c1917)
 
 </div>
 
@@ -151,10 +152,12 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 ## 🛠️ My Advanced Tech Arsenal
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4da1-b5ed-7ca54012cd84.gif" width="100">
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100"> -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
 ### 🤖 Core AI/ML Technologies
@@ -207,17 +210,20 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ---
 
 <div align="center">
 
-## 📊 Real-Time GitHub Analytics Dashboard
+## 📊GitHub Analytics Dashboard
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  <br><br>
 </div>
 
-### 📈 Live GitHub Statistics
+### 📈  GitHub Statistics
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adityagupta930&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Aditya's Real-Time GitHub Stats" />
   
