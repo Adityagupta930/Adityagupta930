@@ -225,7 +225,7 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityagupta930&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&cache_seconds=0" alt="adityagupta930" />
+  <img src="https://streak-stats.demolab.com/?user=adityagupta930&theme=dark&hide_border=true&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8&sideLabels=00b4d8&dates=c9d1d9" alt="GitHub Streak Stats" />
 </div>
 
 ### 📅 Yearly Contribution Activity (Real-Time)
