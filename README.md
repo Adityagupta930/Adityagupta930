@@ -1,7 +1,5 @@
 <div align="center">🌌 Welcome to the Data Multiverse 🌌</div>
 <div align="center">
-
-
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gupta;AI+Engineer+%26+Data+Scientist;%F0%9F%94%8D+Pattern+Detective+%F0%9F%95%B5%EF%B8%8F;Neural+Network+Architect+%F0%9F%A7%A0;Building+Intelligent+AI+Systems+%F0%9F%9A%80;Decoding+Data+Mysteries+%F0%9F%94%AE;Coffee+%E2%86%92+Code+%E2%86%92+AI+Magic+%E2%9C%A8" alt="Typing SVG" />
   
