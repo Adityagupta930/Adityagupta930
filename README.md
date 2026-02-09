@@ -9,7 +9,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
   </div>
   
-  <img src="https://raw.githubusercontent.com/adityagupta930/adityagupta930/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
 
 ---
@@ -218,31 +218,28 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 <div align="center">
 
-## 📊 GitHub Analytics Dashboard
+## 📊GitHub Analytics Dashboard
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
   <br><br>
 </div>
 
-### 📈 GitHub Statistics
+### 📈  GitHub Statistics
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adityagupta930&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Aditya's Real-Time GitHub Stats" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta930&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=adityagupta930&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityagupta930&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta930&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityagupta930&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityagupta930&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=adityagupta930&theme=dark&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=c9d1d9" alt="GitHub Streak Stats" />
+</div>
 
 ### 📅 Yearly Contribution Activity (Real-Time)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&theme=react-dark&hide_border=true&area=true)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0969da&area=true&hide_border=true" alt="Real-Time Activity Graph" />
+</div>
 
 </div>
 
