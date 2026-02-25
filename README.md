@@ -234,7 +234,7 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=adityagupta930&theme=dark&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=c9d1d9" alt="GitHub Streak Stats" />
 </div>
 
-### 📅 Yearly Contribution Activity (Real-Time)
+### 📅 Yearly Contribution Activity 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0969da&area=true&hide_border=true" alt="Real-Time Activity Graph" />
 </div>
