@@ -2,14 +2,15 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Aditya+Gupta;AI+Engineer+%26+Data+Scientist;%F0%9F%94%8D+Pattern+Detective+%F0%9F%95%B5%EF%B8%8F;Neural+Network+Architect+%F0%9F%A7%A0;Building+Intelligent+AI+Systems+%F0%9F%9A%80;Decoding+Data+Mysteries+%F0%9F%94%AE;Coffee+%E2%86%92+Code+%E2%86%92+AI+Magic+%E2%9C%A8" alt="Typing SVG" />
 
-
-   <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-  </div>
-
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+</div>
+
 ---
+
 <div align="center">
 
 ## 🚀 *"Turning Data into Magic, One Algorithm at a Time"* ✨
@@ -60,7 +61,7 @@
       </div>
     </td>
     <td width="50%">
-      
+
 ### 🌟 At a Glance
 ```yaml
 name: Aditya Gupta
@@ -72,13 +73,13 @@ current_obsession: GenAI & Advanced ML Systems
 daily_routine: Coffee ☕ → Code 💻 → Debug 🐛 → Repeat 🔄
 ```
 
-### 👋 Hello World! 
+### 👋 Hello World!
 
-I'm **Aditya** - part AI architect 🏗️, part data wizard 🧙‍♂️, and full-time technology enthusiast! 
+I'm **Aditya** - part AI architect 🏗️, part data wizard 🧙‍♂️, and full-time technology enthusiast!
 
 Think of me as an **AI systems builder** who crafts intelligent solutions from raw data. Whether it's fine-tuning language models, building RAG systems, or deploying scalable ML pipelines, I love creating AI that actually makes a difference.
 
-**What makes me tick?** 
+**What makes me tick?**
 - 🧩 Building end-to-end AI solutions that solve real problems
 - 🚀 Experimenting with cutting-edge GenAI technologies
 - 📚 Continuous learning in the rapidly evolving AI landscape
@@ -114,7 +115,7 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
       <progress value="90" max="100"></progress> 90%
     </td>
     <td align="center"><br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=180&height=50&lines=PYTHON" alt="NLP & GenAI" width="150"><br>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=20&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=180&height=50&lines=PYTHON" alt="Python" width="150"><br>
       <b>Python</b><br>
       <progress value="95" max="100"></progress> 95%
     </td>
@@ -146,8 +147,6 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 ---
 
-
-
 <div align="center">
 
 ## 🛠️ My Advanced Tech Arsenal
@@ -156,8 +155,6 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"> -->
 </div>
 
 ### 🤖 Core AI/ML Technologies
@@ -213,6 +210,7 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -221,27 +219,27 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 
 <div align="center">
 
-## 📊GitHub Analytics Dashboard
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
   <br><br>
 </div>
 
-### 📈  GitHub Statistics
+### 📈 GitHub Statistics
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adityagupta930&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="Aditya's Real-Time GitHub Stats" />
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta930&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=adityagupta930&show_icons=true&count_private=true&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&cache_seconds=1800" alt="Aditya GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagupta930&layout=compact&hide_border=true&title_color=00b4d8&text_color=00b4d8&bg_color=0d1117&cache_seconds=1800" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=adityagupta930&theme=dark&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=c9d1d9" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=adityagupta930&theme=dark&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=c9d1d9" alt="GitHub Streak Stats" />
 </div>
 
-### 📅 Yearly Contribution Activity 
+### 📅 Yearly Contribution Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0969da&area=true&hide_border=true" alt="Real-Time Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityagupta930&bg_color=0d1117&color=00b4d8&line=00b4d8&point=0969da&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 </div>
@@ -266,7 +264,7 @@ def connect_with_aditya():
     else:
         return "Still happy to chat about tech! 💬"
 
-# Always returns: Let's collaborate! 
+# Always returns: Let's collaborate!
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
