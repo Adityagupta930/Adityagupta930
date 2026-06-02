@@ -229,12 +229,11 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 ### 📈 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityagupta930&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityagupta930&theme=github_dark" />
-</div>
 
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityagupta930&theme=github_dark" />
+![Total Stars](https://img.shields.io/badge/Total%20Stars-checking-yellow?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/github/followers/adityagupta930?style=for-the-badge&logo=github&label=Followers&color=blue)
+![Repos](https://img.shields.io/badge/Public%20Repos-visit%20profile-green?style=for-the-badge&logo=github)
+
 </div>
 
 <div align="center">
