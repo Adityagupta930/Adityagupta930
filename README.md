@@ -1,7 +1,3 @@
-
-
-
-
 <div align="center">🌌 Welcome to the Data Multiverse 🌌</div>
 
 <div align="center">
@@ -217,6 +213,14 @@ Think of me as an **AI systems builder** who crafts intelligent solutions from r
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### 🧪 Software Testing & 📊 Advanced Excel
+![Software Testing](https://img.shields.io/badge/Software_Testing-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6C37?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel VBA](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </div>
 
