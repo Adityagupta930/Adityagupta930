@@ -288,5 +288,33 @@ def connect_with_aditya():
 ---
 
 <div align="center">
+
+## ✨ Extra Features
+
+### 🔥 Current Build Status
+![Build Status](https://img.shields.io/badge/Status-Active%20Builder-00C853?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-GenAI%20%2B%20ML-FF6B6B?style=for-the-badge)
+![Mood](https://img.shields.io/badge/Mood-Coffee%20%26%20Code-FFB300?style=for-the-badge)
+
+### 🧠 Learning Roadmap
+- Exploring advanced LLM workflows and RAG architecture
+- Building agentic AI systems with practical real-world use cases
+- Improving model deployment and automation pipelines
+- Constantly learning by turning ideas into working projects
+
+### 📌 Developer Snapshot
+- 🧩 Favorite domain: AI + Data + Product Thinking
+- 🛠️ Best at: Problem solving, experimentation, and deployment
+- 📚 Always learning: GenAI, NLP, scaling ML workflows
+- ☕ Daily fuel: Coffee, curiosity, and code
+
+### 💡 My Mantra
+> "Build small, learn fast, ship smarter, and keep improving every day."
+
+</div>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
